@@ -1,0 +1,56 @@
+<html>
+    <title>Anime</title>
+    <body style="font-family:Arial;">
+        <header style="background-color:black">
+        <img src="https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/gPMAAOSwM4xXYHu0/$_57.JPG?set_id=880000500F" height="50px"/>
+        <a href="https://ru.wikipedia.org/wiki/Аниме" style="color: white">История</a> 
+        </header>
+        <main style="background-color:Azure">
+            <h1 style="color:DeepSkyBlue; text-align:center; ">Аниме</h1>
+            <h2 style="color:DeepSkyBlue; text-align:center; ">которые можно посмотреть</h2>
+            <h3 style="color:DeepSkyBlue">Длиные аниме</h3>
+            <table style="border:1px solid green;border-collapse:collapse;">
+        <tr style="border:1px solid DeepSkyBlue;background-color:DodgerBlue;">
+            <td>Название</td>
+            <td>Сезонов</td>
+            <td>Кол.серий</td>
+            <td>Дата</td>
+            <td>Рейтинг</td>
+        </tr>
+        <tr style="border:1px solid DeepSkyBlue">
+           <td style="background-color:Aquamarine;">Наруто</td>
+           <td style="background-color:Aqua">2</td>
+           <td style="background-color:burlywood">720</td>
+           <td>3.10.2002</td>
+           <td>7,5</td>
+        </tr> 
+           <tr style="border:1px solid DeepSkyBlue">
+           <td style="background-color:Aquamarine;">Блич</td>
+           <td style="background-color:Aqua">16</td>
+           <td style="background-color:burlywood">366</td>
+           <td>5.10.2004</td>
+           <td>8</td>
+        </tr> 
+           <tr style="border:1px solid DeepSkyBlue">
+           <td style="background-color:Aquamarine;">ван пис</td>
+           <td style="background-color:Aqua">6</td>
+           <td style="background-color:burlywood">1017</td>
+           <td>20.10.1999</td>
+           <td>8,3</td>
+        </tr> 
+           <tr style="border:1px solid DeepSkyBlue">
+           <td style="background-color:Aquamarine;">сейлормун</td>
+           <td style="background-color:Aqua">4</td>
+           <td style="background-color:burlywood">200</td>
+           <td>9.3.1996</td>
+           <td>7,8</td>
+        </tr> 
+    </table>
+    <p style="color:DeepSkyBlue">Аниме – это японские мультфильмы, или анимация. Аниме отличается от просто мультфильмов и поэтому выделяется своим собственным названием. Японские мультики эти не рассчитаны на детей: их рисуют для подростков, тинейджеров или взрослых. Чаще всего они основаны на взрослых комиксах, или книжках, которые состоят из картинок-сюжетов, или на взрослых компьютерных играх. Но главное отличие в том, что они нарисованы определённым образом.</p>
+        </main>
+        <footer style="background-color:black">
+            <p style="color:white">Смотри Аниме!!!</p>
+        </footer>
+
+    </body>
+</html>
